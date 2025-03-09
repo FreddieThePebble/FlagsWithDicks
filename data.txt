@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/mai
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/Turkey.png
 UK
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/UK.png
-https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/UKa.png
+https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/UK.png
 USA
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/USA.png
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/USA.png
