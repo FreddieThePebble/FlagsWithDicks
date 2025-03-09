@@ -3,15 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flag Alternatives</title>
+    <title>FlagsWithDicks</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Poppins', sans-serif;
             text-align: center;
             background-color: #121212;
             color: white;
             margin: 0;
             padding: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+            font-weight: 600;
         }
         table {
             width: 90%;
@@ -19,24 +24,34 @@
             border-collapse: collapse;
             background: #1e1e1e;
             color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0px 0px 15px rgba(76, 175, 80, 0.3);
         }
         th, td {
             border: 1px solid #333;
-            padding: 10px;
+            padding: 15px;
         }
         th {
-            background-color: #333;
+            background-color: #4CAF50;
+            color: white;
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background-color: #222;
         }
         img {
-            width: 150px;
+            width: 250px;
             height: auto;
-            border: 2px solid #444;
+            border-radius: 8px;
+            border: 3px solid #4CAF50;
             background-color: white;
+            box-shadow: 0px 5px 10px rgba(76, 175, 80, 0.2);
         }
     </style>
 </head>
 <body>
-    <h1>Flag Alternatives</h1>
+    <h1>Flags but With Dicks </h1>
     <table>
         <thead>
             <tr>
@@ -67,7 +82,7 @@
                     const redesignedFlag = lines[i + 2];
 
                     const row = `<tr>
-                        <td>${country}</td>
+                        <td><strong>${country}</strong></td>
                         <td><img src="${originalFlag}" alt="Original flag of ${country}"></td>
                         <td><img src="${redesignedFlag}" alt="Redesigned flag of ${country}"></td>
                     </tr>`;
