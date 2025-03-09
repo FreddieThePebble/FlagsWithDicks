@@ -47,7 +47,7 @@ Kenya
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/Kenya.png
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/Kenya.png
 Lithuania
-https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regularLithuania.png
+https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/Lithuania.png
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/Lithuania.png
 Mexico
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/Mexico.png
