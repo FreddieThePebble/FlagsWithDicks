@@ -41,7 +41,7 @@ India
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/India.png
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/India.png
 Japan
-https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regularJapan.png
+https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/Japan.png
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/dicks/Japan.png
 Kenya
 https://raw.githubusercontent.com/FreddieThePebble/FlagsWithDicks/refs/heads/main/flags/regular/Kenya.png
